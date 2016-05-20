@@ -14,5 +14,5 @@ GraphGDIPlus.au3 - Graph GDI+ library by "andybiochem".
 CONTACT
 
 Author: richard_bruna@nm.cz<br>
-Source: https://github.com/KyomaHooin/CSVtoXLChart
+Source: https://github.com/KyomaHooin/CSVExplorer
 

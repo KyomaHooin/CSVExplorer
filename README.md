@@ -1,7 +1,7 @@
 
 DESCRIPTION
 
-Parse "Sauter NovaPro 474c Cz" temperature/humidity sensor CSV data export and display simple GDI+ line graph.
+Parse "Sauter NovaPro 374c Cz" temperature/humidity sensor CSV data export and display simple GDI+ line graph.
 
 FILE
 

@@ -1,3 +1,4 @@
+![CSV Explorer](https://github.com/KyomaHooin/CSVExplorer/raw/master/csvexplorer_screenshot.png "screenshot")
 
 DESCRIPTION
 

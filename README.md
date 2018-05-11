@@ -12,7 +12,7 @@ GraphGDIPlus.au3 - Graph GDI+ library by "andybiochem".
      toolbox.ico - Program icon.
 </pre>
 
-CONTACT
+SOURCE
 
-Source: https://github.com/KyomaHooin/CSVExplorer
+https://github.com/KyomaHooin/CSVExplorer
 
